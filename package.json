@@ -1,10 +1,9 @@
 {
   "name": "varlyq",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js", 
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js", 
+    "start": "node server.js",
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +17,7 @@
     "mongoose": "^7.5.2",
     "nodemon": "^3.0.1",
     "redis": "^4.6.8"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
